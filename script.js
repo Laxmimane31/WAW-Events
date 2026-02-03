@@ -152,7 +152,7 @@ const galleryData = {
         'images/engagements/eng_3.png',
         'images/engagements/eng_4.png',
         // Sangeet (Fixed Paths)
-        'images/sangeet/sangeet_main.jpg',
+
         'images/sangeet/IMG_0406.jpg',
         'images/sangeet/IMG_0892.jpg',
         'images/sangeet/IMG_0896.jpg',
