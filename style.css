@@ -942,7 +942,7 @@ img {
     font-size: 3rem;
     font-family: var(--f-heading);
     margin-bottom: 0.5rem;
-    color: var(--c-gold);
+    color: var(--c-bg);
 }
 
 .stat-item p {
