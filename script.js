@@ -37,7 +37,7 @@ if (mobileCloseBtn) {
 }
 
 // Close mobile menu when a link is clicked
-document.querySelectorAll('.nav-link').forEach(link => {
+document.querySelectorAll('.nav-link, .btn-cta').forEach(link => {
     link.addEventListener('click', () => {
         navLinks.classList.remove('active');
         const icon = mobileToggle.querySelector('i');
