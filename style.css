@@ -1418,3 +1418,10 @@ img {
     box-shadow: 0 5px 15px rgba(197, 160, 89, 0.4);
     background: linear-gradient(135deg, #b38b4d, var(--c-gold));
 }
+
+/* Logo Specific Overrides */
+.logo img {
+    border-radius: 0 !important;
+    mix-blend-mode: multiply !important;
+    filter: contrast(1.1);
+}
